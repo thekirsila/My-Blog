@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://michaelsmidweekmadness.com/</loc>
+  <lastmod>2016-04-13T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/index.php</loc>
+  <lastmod>2016-04-13T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/about.html</loc>
+  <lastmod>2016-04-13T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/post.php?postNumber=1</loc>
+  <lastmod>2016-04-13T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/post.php?postNumber=2</loc>
+  <lastmod>2016-04-15T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/post.php?postNumber=3</loc>
+  <lastmod>2016-04-20T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/post.php?postNumber=4</loc>
+  <lastmod>2016-04-20T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+    <url>
+  <loc>http://michaelsmidweekmadness.com/post.php?postNumber=6</loc>
+  <lastmod>2016-05-16T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://michaelsmidweekmadness.com/changelog.html</loc>
+  <lastmod>2016-04-15T17:51:55+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

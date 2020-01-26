@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Michaels Midweek Madness</title>
+    <link>michaelsmidweekmadness.com</link>
+    <description>Talking about the basic facts of the digital era and living the life of a student</description>
+    <language>en-us</language>
+    <item>
+      <title>Welcome to Finland 3: Breaking the Stereotypes</title>
+      <pubDate>Wed, 16 May 2016 17:09:16 +0300</pubDate>
+      <link>michaelsmidweekmadness.com/post.php?postNumber=6</link>
+      <guid isPermaLink="true">michaelsmidweekmadness.com/post.php?postNumber=6</guid>
+      <description><![CDATA[Here I am attempting to break any stereotypes you might have about us Finns. Or then I failed miserably and made them stronger than ever... You decide.]]></description>
+    </item>
+    <item>
+      <title>Welcome to Finland part 2: how to healthcare</title>
+      <pubDate>Thu, 28 Apr 2016 17:15:18 +0300</pubDate>
+      <link>michaelsmidweekmadness.com/post.php?postNumber=4</link>
+      <description><![CDATA[I got myself treated by a profesional and got the antibiotics for just under 20€. Is this something that will drive Finland into bankcruptcy or should the world take example? Click to see...]]></description>
+    </item>
+    <item>
+      <title>Welcome to Finland: Student's view of the education system</title>
+      <pubDate>Wed, 20 Apr 2016 17:15:18 +0300</pubDate>
+      <link>michaelsmidweekmadness.com/post.php?postNumber=3</link>
+      <description><![CDATA[Everybody knows about Finland's world famous education system and PISA results, but how does an ordinary student see them?]]></description>
+    </item>
+    <item>
+      <title>Data security 101, how to keep your information safe</title>
+      <pubDate>Fri, 15 Apr 2016 17:15:18 +0300</pubDate>
+      <link>michaelsmidweekmadness.com/post.php?postNumber=2</link>
+      <description><![CDATA[After the world heard from Snowden that USA gathers every single piece of data that goes through the States there was a lot of angry people. Is there really anything to be annoyed about?]]></description>
+    </item>
+    <item>
+      <title>Welcome to the Internet</title>
+      <pubDate>Wed, 6 Apr 2016 17:09:16 +0300</pubDate>
+      <link>michaelsmidweekmadness.com/post.php?postNumber=1</link>
+      <guid isPermaLink="true">michaelsmidweekmadness.com/post.php?postNumber=1</guid>
+      <description><![CDATA[Is the internet really that scary of a place? Can you really find harmful things there? Well the answer is yes and no, click to find out more...]]></description>
+    </item>
+  </channel>
+</rss>

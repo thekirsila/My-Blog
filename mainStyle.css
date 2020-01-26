@@ -1,0 +1,208 @@
+* {
+    font-family: "acumin-pro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h1 {
+    color: #009f00;
+    font-family: "adelle", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+b {
+    font-family: "acumin-pro", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+i {
+    font-family: "acumin-pro", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#link {
+    color: #10bd00;
+    font-family: "adelle", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#header {
+    height: 70px;
+    margin: 0px 50px;
+    border-bottom: 5px solid green;
+}
+
+#content {
+    margin-left: 205px;
+    margin-right: 205px;
+    margin-top: 5px;
+    height: 500px;
+    border-right: 5px solid green;
+    border-left: 5px solid green;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 100px;
+}
+
+#menu {
+    top: 101px;
+    left: 8px;
+    position: fixed;
+    width: 200px;
+    height: 400px;
+}
+
+#menuItemBlog {
+    margin-left: 40px;
+}
+
+#menuItemAbout {
+    margin-left: 40px;
+}
+
+#menuItemChangelog {
+    margin-left: 40px;
+}
+
+#menuItemSocial {
+    margin-left: 20px;
+}
+
+#mobileMenu {
+    height: 60px;
+    margin: 0px 10px;
+    border-bottom: 2px solid green;
+    display: none;
+}
+
+#mobileMenuItems {
+    margin: 0 auto;
+}
+
+#mobileMenuItemBlog {
+    width: 60px;
+    display: inline-block;
+}
+
+#mobileMenuItemAbout {
+    width: 80px;
+    display: inline-block;
+}
+
+#mobileMenuItemChangelog {
+    width: 60px;
+    display: inline-block;
+}
+
+#postContainer {
+    border: 2px solid #009f00;
+    margin-top: 10px;
+    padding: 5px 0 5px 3px;
+    box-shadow: 7px 7px 10px #8b8b8b;
+    transition: .5s;
+}
+
+#postContainer:hover {
+    box-shadow: 3px 3px 10px #474747;
+}
+
+#totdContainer {
+    margin: 10px auto;
+    width: 600px;
+    padding: 5px 0 5px 3px;
+    box-shadow: 7px 7px 10px #8b8b8b;
+    border-top: 2px solid #009f00;
+    border-bottom: 2px solid #009f00;
+}
+
+#title {
+    font-size: 20px;
+    color: #10bd00;
+    margin-left: 20px;
+    font-family: "adelle", sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+#post {
+    margin-left: 30px;
+}
+
+#footer {
+    padding-left: 50px;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    border-top: 5px solid green;
+    background-color: white;
+    display: none;
+}
+
+#ads {
+    top: 101px;
+    right: 8px;
+    position: fixed;
+    width: 200px;
+    height: 400px;
+}
+
+#mobileAds {
+    display: none;
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media (max-width: 650px) {
+    #menu {
+        display: none;
+    }
+    #ads {
+        display: none;
+    }
+    #mobileAds {
+        display: block;
+    }
+    #content {
+        margin-left: 0px;
+        margin-right: 0px;
+        border-right: none;
+        border-left: none;
+        height: auto;
+    }
+    #header {
+        margin: 0px 10px;
+    }
+    #mobileMenu {
+        display: block;
+    }
+    #footer {
+        display: block;
+    }
+    #totdContainer {
+        margin: 10px 30px 0 30px;
+        width: auto;
+    }
+}
+
+@media (max-width: 370px) {
+    #header {
+        height: 80px;
+    }
+}
+
+@media (max-width: 320px) {
+    #header {
+        height: 110px;
+    }
+}
